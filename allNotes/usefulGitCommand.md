@@ -37,3 +37,9 @@ git remote set-url origin <url>
 + Use **git status** and **git diff --stat** to see the number of lines changed in each file
 
 ## Advanced commands and best practices
++ The **git log** command lets you see the commit history. You’ll want to use this to see the history of your commits.
++ Your commits will come with messages and a **hash** that look like **c3d882aa1aa4e3d5f18b3890132670fbeac912f7**
++ By using the hash as the branch name **git checkout c3d88eaa1aa4e4d5f** This will **detach** your app from the current version
++ Then, if you make changes from that historical branch and you want to push again, you’d have to do a **force push** by **git push -f origin master**
+
+.. Not yet finished ..
