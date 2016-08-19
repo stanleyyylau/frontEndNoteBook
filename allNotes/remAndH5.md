@@ -26,3 +26,6 @@
 [CSS units in one place](https://www.youtube.com/watch?v=qrduUUdxBSY)
 [CSS positioning part1](https://www.youtube.com/watch?v=kejG8G0dr5U&list=PLqGj3iMvMa4L731ispRfGAabXeRpM4RL6)
 [CSS positioning part2](https://www.youtube.com/watch?v=Rf6zAP4YnZA&list=PLqGj3iMvMa4L731ispRfGAabXeRpM4RL6&index=2)
+
+
+![CSS Length Units](../allNotes/css-length-units.png)
