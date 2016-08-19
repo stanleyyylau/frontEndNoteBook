@@ -5,7 +5,7 @@
 ## px, em and rem
 
 ### em 相对的长度单位
-+ em 相对参照物为 父元素 的 font-size
++ em 相对参照物为 父元素 的 font-size (**错，其实是针对当前元素的font-size**)
 + em 具有继承的特点
 + 当没有设置font-size时, 浏览器会有一个默认的em设置: 1em = 16px
 **em的缺点: 容易混乱**
