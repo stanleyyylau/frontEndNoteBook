@@ -57,3 +57,71 @@
 ```
 
 ## Nesting and Scope
+
++ Less nesting and Sass nesting is the same
++ Just like in programming languages, in Less variables receive their values depending on the scope.
+
+```
+@text-color: #000000;
+
+ul{
+  @text-color: #fff;
+  background-color: #03A9F4;
+  padding: 10px;
+  list-style: none;
+
+  li{
+    color: @text-color;
+    border-radius: 3px;
+    margin: 10px 0;
+  }
+}
+
+```
+
+
+## Operations
+
++ You can do basic math operations to numerical values and colors.
+
+```
+@div-width: 100px;
+@color: #03A9F4;
+
+div{
+  height: 50px;
+  display: inline-block;
+}
+
+#left{
+  width: @div-width;
+  background-color: @color - 100;
+}
+
+#right{
+  width: @div-width * 2;
+  background-color: @color;
+}
+
+```
+
+
+## Functions
+
++ Take a look at fadeout function, a function that decreases the opacity of a color.
++ **&** means the current element I think
+
+```
+@var: #004590;
+
+div{
+  height: 50px;
+  width: 50px;
+  background-color: @var;
+
+  &:hover{
+    background-color: fadeout(@var, 50%)
+  }
+}
+
+```
