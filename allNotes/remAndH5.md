@@ -21,11 +21,11 @@
 
 **缺陷: 不是所有浏览器都支持rem的属性**
 
-[em VS rem](http://webdesign.tutsplus.com/tutorials/comprehensive-guide-when-to-use-em-vs-rem--cms-23984)
-[Understanding and using rem](https://www.sitepoint.com/understanding-and-using-rem-units-in-css/)
-[CSS units in one place](https://www.youtube.com/watch?v=qrduUUdxBSY)
-[CSS positioning part1](https://www.youtube.com/watch?v=kejG8G0dr5U&list=PLqGj3iMvMa4L731ispRfGAabXeRpM4RL6)
-[CSS positioning part2](https://www.youtube.com/watch?v=Rf6zAP4YnZA&list=PLqGj3iMvMa4L731ispRfGAabXeRpM4RL6&index=2)
-[小锋推荐:rem和移动适配](http://div.io/topic/1092)
++ [em VS rem](http://webdesign.tutsplus.com/tutorials/comprehensive-guide-when-to-use-em-vs-rem--cms-23984)
++ [Understanding and using rem](https://www.sitepoint.com/understanding-and-using-rem-units-in-css/)
++ [CSS units in one place](https://www.youtube.com/watch?v=qrduUUdxBSY)
++ [CSS positioning part1](https://www.youtube.com/watch?v=kejG8G0dr5U&list=PLqGj3iMvMa4L731ispRfGAabXeRpM4RL6)
++ [CSS positioning part2](https://www.youtube.com/watch?v=Rf6zAP4YnZA&list=PLqGj3iMvMa4L731ispRfGAabXeRpM4RL6&index=2)
++ [小锋推荐:rem和移动适配](http://div.io/topic/1092)
 
-![CSS Length Units](../allNotes/css-length-units.png)
+![CSS Length Units](../imgs/css-length-units.png)
