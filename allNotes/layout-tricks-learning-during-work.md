@@ -9,4 +9,5 @@
 + line-hight 调成和height 一样就行了
 
 
-flex box 里面嵌套 flex box 垂直居中会出现问题
++ flex box 里面嵌套 flex box 垂直居中会出现问题
++ 用flex box 里面加span 的时候 要改成display:block
